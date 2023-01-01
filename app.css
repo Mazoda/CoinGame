@@ -1,0 +1,50 @@
+/* h1 {
+  color: purple;
+  font-size: 60px;
+} */
+/* selected by ID */
+/* #bear-photo {
+  width: 250px;
+} */
+/* selected by class */
+/* .special {
+  color: teal;
+  font-size: 30px;
+  border: 1px solid teal;
+} */
+/* selected by type */
+/* input[type="password"] {
+  height: 50px;
+  width: 100px;
+} */
+/* button {
+  position: absolute;
+}
+#boxes {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+.box {
+	width: 200px;
+	height: 200px;
+}
+h1 {
+	text-align: center;
+} */
+img {
+  width: 100px;
+  position: absolute;
+  top: 100px;
+  left: 10px;
+}
+#counter {
+  display: flex;
+  justify-content: center;
+  align-items:center;
+}
+#counter1 {
+	display: flex;
+	justify-content: center;
+	color: rebeccapurple;
+  }
